@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 
-namespace Nexus.Sources
+namespace Foo
 {
     public class MyLogger : ILogger
     {
